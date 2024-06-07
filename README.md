@@ -17,6 +17,8 @@ Press Space to jump.
 
 Press Enter to restart.
 
+Press ESC to end this awesome journey.
 
+___________________________________________
 
 We hope you have as much fun playing the game, as we had making it!
