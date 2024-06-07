@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PhloxJourney">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PhloxJourney/build/PhloxJourney.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
